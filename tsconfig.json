@@ -14,7 +14,11 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react"
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "@fdaciuk/react-ff": ["./lib/main.tsx"]
+    }
   },
-  "include": ["./src"]
+  "include": ["./src", "./lib"]
 }
