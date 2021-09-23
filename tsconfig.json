@@ -17,7 +17,7 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@fdaciuk/react-ff": ["./lib/main.tsx"]
+      "@fdaciuk/react-ff": ["./lib/ff.tsx"]
     }
   },
   "include": ["./src", "./lib"]
