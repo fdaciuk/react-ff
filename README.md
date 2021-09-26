@@ -17,7 +17,7 @@
 
 > Type safe Components to create Feature Flags (or Feature Toggle) with React.js
 
-### 🏠 [Homepage](https://github.com/fdaciuk/react-ff)
+### 🏠 [Homepage (TODO)](https://github.com/fdaciuk/react-ff)
 
 ## Install
 
@@ -33,7 +33,6 @@ Create a new file (e.g. `src/feature-flag.tsx`) with this content:
 ```ts
 import { createFeatureFlag } from '@fdaciuk/react-ff'
 
-//
 export type Flags = 
   | 'NEW_HEADER'
   | 'NEW_FOOTER'
@@ -104,7 +103,7 @@ function NewFooter () {
 }
 ```
 
-The `flag` prop is type safe, and only will accept flags from type `Flags`, passed for `createFeatureFlag` function.
+The `flag` prop is type safe, and will only accept flags from type `Flags`, passed for `createFeatureFlag` function.
 
 The `children` is optional. You can pass a children when you want to render a fallback component, whether flag is disabled (`false`).
 
@@ -128,7 +127,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Fernando Daciuk - @fdaciuk](https://github.com/fdaciuk).<br />
-This project is [MIT](https://github.com/fdaciuk/react-ff/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This project is [MIT](https://github.com/fdaciuk/react-ff/blob/master/LICENSE.md) licensed.
