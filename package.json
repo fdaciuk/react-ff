@@ -13,6 +13,7 @@
     "lint": "eslint src --ext ts,tsx",
     "lint:fix": "yarn lint --fix",
     "type-check": "tsc --project tsconfig.json --pretty --noEmit",
+    "ci": "yarn lint && yarn type-check",
     "prepare": "husky install"
   },
   "files": [

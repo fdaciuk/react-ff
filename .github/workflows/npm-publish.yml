@@ -7,24 +7,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v2
         with:
-          node-version: 16
-      - run: npm install
-      - run: npm run lint
-      - run: npm run build
-      - run: npm test
+          node-version: ${{matrix.node-version}}
+      - run: yarn
+      - run: yarn ci
 
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v2
         with:
-          node-version: 16
+          node-version: ${{matrix.node-version}}
           registry-url: https://registry.npmjs.org/
       - run: npm publish --access=public
         env:
