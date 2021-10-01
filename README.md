@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to React Feature Flag 👋</h1>
+# Welcome to React Feature Flag 👋
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.9-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/fdaciuk/react-ff#readme" target="_blank">
