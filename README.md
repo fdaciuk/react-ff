@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fdaciuk/react-ff/main/src/feature-flag.svg" alt="React Feature Flag">
+</p>
+
 # Welcome to React Feature Flag 👋
 
 <p>
