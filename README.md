@@ -9,7 +9,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/fdaciuk/react-ff/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/fdaciuk/React Feature Flag" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/fdaciuk/react-ff" />
   </a>
   <a href="https://twitter.com/fdaciuk" target="_blank">
     <img alt="Twitter: fdaciuk" src="https://img.shields.io/twitter/follow/fdaciuk.svg?style=social" />
