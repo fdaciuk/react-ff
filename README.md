@@ -22,8 +22,6 @@
 
 > Type safe Components to create Feature Flags (or Feature Toggle) with React.js
 
-### 🏠 [Homepage (TODO)](https://github.com/fdaciuk/react-ff)
-
 ## Install
 
 ```sh
