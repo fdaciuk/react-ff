@@ -5,15 +5,15 @@
 # Welcome to React Feature Flag 👋
 
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.9-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/github/package-json/v/fdaciuk/react-ff?color=blue&style=flat-square">
   <a href="https://github.com/fdaciuk/react-ff#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square" />
   </a>
   <a href="https://github.com/fdaciuk/react-ff/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat-square" />
   </a>
-  <a href="https://github.com/fdaciuk/react-ff/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/fdaciuk/react-ff" />
+  <a href="https://github.com/fdaciuk/react-ff/blob/master/LICENSE.md" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/fdaciuk/react-ff?color=brightgreen&style=flat-square" />
   </a>
   <a href="https://twitter.com/fdaciuk" target="_blank">
     <img alt="Twitter: fdaciuk" src="https://img.shields.io/twitter/follow/fdaciuk.svg?style=social" />
