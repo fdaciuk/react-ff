@@ -30,7 +30,10 @@
     "url": "git+https://github.com/fdaciuk/react-ff.git"
   },
   "keywords": [
-    "feature flag"
+    "feature flag",
+    "feature toggle",
+    "react feature flag",
+    "react feature toggle"
   ],
   "author": "Fernando Daciuk - @fdaciuk",
   "bugs": {
