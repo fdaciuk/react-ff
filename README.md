@@ -119,6 +119,10 @@ The `children` is optional. You can pass a children when you want to render a fa
 * Github: [@fdaciuk](https://github.com/fdaciuk)
 * LinkedIn: [@fdaciuk](https://linkedin.com/in/fdaciuk)
 
+## Credits
+
+Logo by [@vmarcosp](https://github.com/vmarcosp) ♥️
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fdaciuk/react-ff/issues). You can also take a look at the [contributing guide](https://github.com/fdaciuk/react-ff/blob/master/CONTRIBUTING.md).
